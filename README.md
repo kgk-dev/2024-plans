@@ -25,12 +25,18 @@
 
 ### Learning 
 > Data Structures and Algorithms
+
 > System Design and Architecture
+
 > TDD, BDD, DDD
 
 ### Books
 > Clean Code
+
 > Refactoring - Improving the desing of existing code
+
 > Refactoring to Pattern
+
 > Patterns of Enterprise Application Architecture
+
 > The Pragmatic Programmer
